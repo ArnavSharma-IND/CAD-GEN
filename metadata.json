@@ -1,0 +1,6 @@
+{
+  "name": "CAD Prompt Generator",
+  "description": "An AI-assisted generator converting natural language descriptions into professional mechanical CAD specifications, Bills of Materials (BOM), manufacturing constraints, cost estimates, and copyable automation scripts for SolidWorks, Fusion 360, AutoCAD, and CATIA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
